@@ -1,28 +1,32 @@
 # Number Guesser Game
 
-> [LIVE DEMO](https://rzvl.github.io/colmar/)
+> [LIVE DEMO](https://rzvl.github.io/number-guesser/)
 
 
 ## General Information
 
-This single-page project was developed to serve as the homepage for Colmar, a
-fictional university.
+This is a small number guessing game in which you compete with PC. Anyone whose
+guess is closer to randomly generated number in each round woul win the game.
 
-The website's wireframe, images, and video were provided by Codecademy. All
-of the codes and the actual development of the project was done by [me](https://github.com/rzvl).
+This project was completed as part of [Codecademy](https://www.codecademy.com/)'s
+full stack engineer course.
+
+All of the files were provided by Codecademy.
+
+The javascript functions in `script.js` were written by [me](https://github.com/rzvl).
 
 
 ## The Languages Used
 
 - HTML5
 - CSS3
+- JavaScript
 
 
 ## Technologies Used
 
 - CSS Flexbox
-- CSS Grids
-- Fully Responsive Design
+- ES6
 
 
 ## Project Status
@@ -32,10 +36,9 @@ Project is: _no longer being worked on_.
 
 ## Acknowledgements
 
-- [Codecademy](https://www.codecademy.com/) team for providing the wireframe,
-images, and the video.
+- [Codecademy](https://www.codecademy.com/) team for providing the files.
 
 
 ## Contact
 
-Developed by [@rzvl](https://github.com/rzvl) - feel free to contact me!
+Complete3d by [@rzvl](https://github.com/rzvl) - feel free to contact me!
